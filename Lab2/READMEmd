@@ -1,0 +1,5 @@
+### Assignment 2
+
+#### Description
+This assignment was about implementing a **guessing game**.
+It's a two players game one generates a random number and the other guess the number. The other player keeps guessing until he guesses the number correctly.
